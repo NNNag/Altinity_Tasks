@@ -1,0 +1,67 @@
+1633060445079	geckodriver	INFO	Listening on 127.0.0.1:55611
+1633060446110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofileUYipF1"
+1633060447171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofileUYipF1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633060451474	Marionette	INFO	Listening on port 55622
+1633060451595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://altinity.com/_static/??-eJytketuwyAMhV9oBKXb2l/TnoWA19BhTI3TqXv6uQqRqm3a1IuEBD4cPlsH+1FMzD5NAard6dpPwMe2GYxbdgIdxtzt6oNVs6cskMWWNG1jrlZGMHBQpRrvEuTg2GoZiG0Ziwn63LwRoxMBPnX4qV6K94RIeemChHqt4PlwJ1iik+NSWGVvGSpN7Oc4myEcs8Por8xxIJIq7ObcSvTvc5K/6Ve2aP+ts8dPaFU3uCbcBi3JeRgpBVik7ky6OWLhOCy2u8LM4P6c7hvMFKZ/gOpowFd86dePq6e+f95svgCDaVWY, line 40: ReferenceError: tribe_js_config is not defined
+1633060454706	Marionette	INFO	Stopped listening on port 55622
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633060567742	geckodriver	INFO	Listening on 127.0.0.1:55773
+1633060567774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofileirr0qh"
+1633060568453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofileirr0qh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633060572291	Marionette	INFO	Listening on port 55782
+1633060572409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://altinity.com/_static/??-eJytketuwyAMhV9oBKXb2l/TnoWA19BhTI3TqXv6uQqRqm3a1IuEBD4cPlsH+1FMzD5NAard6dpPwMe2GYxbdgIdxtzt6oNVs6cskMWWNG1jrlZGMHBQpRrvEuTg2GoZiG0Ziwn63LwRoxMBPnX4qV6K94RIeemChHqt4PlwJ1iik+NSWGVvGSpN7Oc4myEcs8Por8xxIJIq7ObcSvTvc5K/6Ve2aP+ts8dPaFU3uCbcBi3JeRgpBVik7ky6OWLhOCy2u8LM4P6c7hvMFKZ/gOpowFd86dePq6e+f95svgCDaVWY, line 40: ReferenceError: tribe_js_config is not defined
+1633060575519	Marionette	INFO	Stopped listening on port 55782
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633060699451	geckodriver	INFO	Listening on 127.0.0.1:55906
+1633060699480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofile3Hg9Vr"
+1633060700137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofile3Hg9Vr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633060704394	Marionette	INFO	Listening on port 55915
+1633060704542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://altinity.com/_static/??-eJytketuwyAMhV9oBKXb2l/TnoWA19BhTI3TqXv6uQqRqm3a1IuEBD4cPlsH+1FMzD5NAard6dpPwMe2GYxbdgIdxtzt6oNVs6cskMWWNG1jrlZGMHBQpRrvEuTg2GoZiG0Ziwn63LwRoxMBPnX4qV6K94RIeemChHqt4PlwJ1iik+NSWGVvGSpN7Oc4myEcs8Por8xxIJIq7ObcSvTvc5K/6Ve2aP+ts8dPaFU3uCbcBi3JeRgpBVik7ky6OWLhOCy2u8LM4P6c7hvMFKZ/gOpowFd86dePq6e+f95svgCDaVWY, line 40: ReferenceError: tribe_js_config is not defined
+1633060707938	Marionette	INFO	Stopped listening on port 55915
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633237323140	geckodriver	INFO	Listening on 127.0.0.1:62811
+1633237324175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofile8cRxfA"
+1633237325157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/fc/lztx7l6n5gq3vzbvvhfxk71r0000gn/T/rust_mozprofile8cRxfA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633237329531	Marionette	INFO	Listening on port 62822
+1633237329607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://altinity.com/_static/??-eJytketuwyAMhV9oBKXb2l/TnoWA19BhTI3TqXv6uQqRqm3a1IuEBD4cPlsH+1FMzD5NAard6dpPwMe2GYxbdgIdxtzt6oNVs6cskMWWNG1jrlZGMHBQpRrvEuTg2GoZiG0Ziwn63LwRoxMBPnX4qV6K94RIeemChHqt4PlwJ1iik+NSWGVvGSpN7Oc4myEcs8Por8xxIJIq7ObcSvTvc5K/6Ve2aP+ts8dPaFU3uCbcBi3JeRgpBVik7ky6OWLhOCy2u8LM4P6c7hvMFKZ/gOpowFd86dePq6e+f95svgCDaVWY, line 40: ReferenceError: tribe_js_config is not defined
+1633237334207	Marionette	INFO	Stopped listening on port 62822
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
